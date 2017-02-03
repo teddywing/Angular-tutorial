@@ -1,5 +1,5 @@
 (function(angular) {
 
-    angular.module('n.Notes', []);
+    angular.module('n.Notes', ['n.Hello']);
 
 })(window.angular);
